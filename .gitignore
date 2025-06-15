@@ -1,0 +1,68 @@
+# Environment variables (contains API keys)
+.env
+.env.local
+.env.*.local
+
+# Python virtual environment
+pg_env/
+venv/
+env/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Rope project settings (Python refactoring tool)
+.ropeproject/
+.rope/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vim/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+scrape_log.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Node modules (if any JS tooling is added)
+node_modules/
+
+# Backup files
+*.bak
+*.backup

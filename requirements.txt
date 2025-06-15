@@ -1,0 +1,8 @@
+# Core dependencies for Paul Graham essay processing
+python-dotenv>=1.0.0
+requests>=2.25.0
+
+# Optional: For enhanced data processing (uncomment if needed)
+# beautifulsoup4>=4.9.0
+# pandas>=1.3.0
+# numpy>=1.21.0

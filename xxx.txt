@@ -1,0 +1,231 @@
+README.md
+posts/6_631_372.md
+posts/A Fundraising Survival Guide.md
+posts/A Local Revolution_.md
+posts/A New Venture Animal.md
+posts/A Plan for Spam.md
+posts/A Project of One_s Own.md
+posts/A Student_s Guide to Startups.md
+posts/A Unified Theory of VC Suckage.md
+posts/A Version 1_0.md
+posts/A Way to Detect Bias.md
+posts/A Word to the Resourceful.md
+posts/After Credentials.md
+posts/After the Ladder.md
+posts/Alien Truth.md
+posts/An Alternative Theory of Unions.md
+posts/An NFT That Saves Lives.md
+posts/Apple_s Mistake.md
+posts/Are Software Patents Evil_.md
+posts/Be Good.md
+posts/Beating the Averages.md
+posts/Before the Startup.md
+posts/Being Popular.md
+posts/Being a Noob.md
+posts/Better Bayesian Filtering.md
+posts/Beyond Smart.md
+posts/Billionaires Build.md
+posts/Black Swan Farming.md
+posts/Bradley_s Ghost.md
+posts/Can You Buy a Silicon Valley_  Maybe_.md
+posts/Change Your Name.md
+posts/Chapter 1 of Ansi Common Lisp.md
+posts/Chapter 2 of Ansi Common Lisp.md
+posts/Charisma _ Power.md
+posts/Cities and Ambition.md
+posts/Copy What You Like.md
+posts/Coronavirus and Credibility.md
+posts/Could VC be a Casualty of the Recession_.md
+posts/Crazy New Ideas.md
+posts/Default Alive or Default Dead_.md
+posts/Defining Property.md
+posts/Design and Research.md
+posts/Disconnecting Distraction.md
+posts/Do Things that Don_t Scale.md
+posts/Don_t Talk to Corp Dev.md
+posts/Donate Unrestricted.md
+posts/Early Work.md
+posts/Earnestness.md
+posts/Economic Inequality.md
+posts/Fashionable Problems.md
+posts/Fierce Nerds.md
+posts/Filters that Fight Back.md
+posts/Five Founders.md
+posts/Five Questions about Language Design.md
+posts/Founder Control.md
+posts/Founder Mode.md
+posts/Frighteningly Ambitious Startup Ideas.md
+posts/General and Surprising.md
+posts/Good Writing.md
+posts/Good and Bad Procrastination.md
+posts/Great Hackers.md
+posts/Hackers and Painters.md
+posts/Haters.md
+posts/Having Kids.md
+posts/Heresy.md
+posts/High Resolution Fundraising.md
+posts/Hiring is Obsolete.md
+posts/Holding a Program in One_s Head.md
+posts/How Art Can Be Good.md
+posts/How Not to Die.md
+posts/How People Get Rich Now.md
+posts/How Y Combinator Started.md
+posts/How You Know.md
+posts/How to Be Silicon Valley.md
+posts/How to Be an Angel Investor.md
+posts/How to Be an Expert in a Changing World.md
+posts/How to Convince Investors.md
+posts/How to Disagree.md
+posts/How to Do Great Work.md
+posts/How to Do Philosophy.md
+posts/How to Do What You Love.md
+posts/How to Fund a Startup.md
+posts/How to Get New Ideas.md
+posts/How to Get Startup Ideas.md
+posts/How to Lose Time and Money.md
+posts/How to Make Pittsburgh a Startup Hub.md
+posts/How to Make Wealth.md
+posts/How to Present to Investors.md
+posts/How to Raise Money.md
+posts/How to Start Google.md
+posts/How to Start a Startup.md
+posts/How to Think for Yourself.md
+posts/How to Work Hard.md
+posts/How to Write Usefully.md
+posts/Ideas for Startups.md
+posts/If Lisp is So Great.md
+posts/Inequality and Risk.md
+posts/Investor Herd Dynamics.md
+posts/Is It Worth Being Wise_.md
+posts/Is There Such a Thing as Good Taste_.md
+posts/It_s Charisma_ Stupid.md
+posts/Java_s Cover.md
+posts/Jessica Livingston.md
+posts/Keep Your Identity Small.md
+posts/Learning from Founders.md
+posts/Let the Other 95_ of Great Programmers In.md
+posts/Lies We Tell Kids.md
+posts/Life is Short.md
+posts/Lisp for Web-Based Applications.md
+posts/Made in USA.md
+posts/Maker_s Schedule_ Manager_s Schedule.md
+posts/Mean People Fail.md
+posts/Microsoft is Dead.md
+posts/Mind the Gap.md
+posts/Modeling a Wealth Tax.md
+posts/News from the Front.md
+posts/Novelty and Heresy.md
+posts/Organic Startup Ideas.md
+posts/Orthodox Privilege.md
+posts/Persuade xor Discover.md
+posts/Post-Medium Publishing.md
+posts/Programming Bottom-Up.md
+posts/Putting Ideas into Words.md
+posts/Ramen Profitable.md
+posts/Relentlessly Resourceful.md
+posts/Return of the Mac.md
+posts/Revenge of the Nerds.md
+posts/Schlep Blindness.md
+posts/See Randomness.md
+posts/Six Principles for Making New Things.md
+posts/Snapshot_ Viaweb_ June 1998.md
+posts/Some Heroes.md
+posts/Startup Investing Trends.md
+posts/Startup _ Growth.md
+posts/Startups in 13 Sentences.md
+posts/Stuff.md
+posts/Subject_ Airbnb.md
+posts/Succinctness is Power.md
+posts/Superlinear Returns.md
+posts/Tablets.md
+posts/Taste for Makers.md
+posts/The 18 Mistakes That Kill Startups.md
+posts/The Acceleration of Addictiveness.md
+posts/The Age of the Essay.md
+posts/The Airbnbs.md
+posts/The Anatomy of Determination.md
+posts/The Best Essay.md
+posts/The Bus Ticket Theory of Genius.md
+posts/The Equity Equation.md
+posts/The Fatal Pinch.md
+posts/The Founder Visa.md
+posts/The Four Quadrants of Conformism.md
+posts/The Future of Startup Funding.md
+posts/The Future of Web Startups.md
+posts/The Hacker_s Guide to Investors.md
+posts/The Hardest Lessons for Startups to Learn.md
+posts/The Hardware Renaissance.md
+posts/The High-Res Society.md
+posts/The Hundred-Year Language.md
+posts/The Island Test.md
+posts/The Lesson to Unlearn.md
+posts/The List of N Things.md
+posts/The Need to Read.md
+posts/The New Funding Landscape.md
+posts/The Origins of Wokeness.md
+posts/The Other Half of _Artists Ship_.md
+posts/The Other Road Ahead.md
+posts/The Patent Pledge.md
+posts/The Pooled-Risk Company Management Company.md
+posts/The Power of the Marginal.md
+posts/The Python Paradox.md
+posts/The Real Reason to End the Death Penalty.md
+posts/The Reddits.md
+posts/The Refragmentation.md
+posts/The Right Kind of Stubborn.md
+posts/The Risk of Discovery.md
+posts/The Ronco Principle.md
+posts/The Roots of Lisp.md
+posts/The Shape of the Essay Field.md
+posts/The Submarine.md
+posts/The Top Idea in Your Mind.md
+posts/The Top of My Todo List.md
+posts/The Trouble with the Segway.md
+posts/The Two Kinds of Moderate.md
+posts/The Venture Capital Squeeze.md
+posts/The Word _Hacker_.md
+posts/This Year We Can End the Death Penalty in California.md
+posts/Trolls.md
+posts/Two Kinds of Judgement.md
+posts/Undergraduation.md
+posts/Web 2_0.md
+posts/Weird Languages.md
+posts/What Business Can Learn from Open Source.md
+posts/What Doesn_t Seem Like Work_.md
+posts/What Happened to Yahoo.md
+posts/What I Did this Summer.md
+posts/What I Worked On.md
+posts/What I_ve Learned from Hacker News.md
+posts/What I_ve Learned from Users.md
+posts/What Kate Saw in Silicon Valley.md
+posts/What Languages Fix.md
+posts/What Made Lisp Different.md
+posts/What Microsoft Is this the Altair Basic of_.md
+posts/What Startups Are Really Like.md
+posts/What We Look for in Founders.md
+posts/What You Can_t Say.md
+posts/What You _Want to_ Want.md
+posts/What You_ll Wish You_d Known.md
+posts/What the Bubble Got Right.md
+posts/What to Do.md
+posts/When To Do What You Love.md
+posts/Where to See Silicon Valley.md
+posts/Why Arc Isn_t Especially Object-Oriented.md
+posts/Why It_s Safe for Founders to Be Nice.md
+posts/Why Nerds are Unpopular.md
+posts/Why Smart People Have Bad Ideas.md
+posts/Why Startup Hubs Work.md
+posts/Why Startups Condense in America.md
+posts/Why TV Lost.md
+posts/Why There Aren_t More Googles.md
+posts/Why Twitter is a Big Deal.md
+posts/Why YC.md
+posts/Why to Move to a Startup Hub.md
+posts/Why to Not Not Start a Startup.md
+posts/Why to Start a Startup in a Bad Economy.md
+posts/Write Like You Talk.md
+posts/Write Simply.md
+posts/Writes and Write-Nots.md
+posts/Writing and Speaking.md
+posts/Writing_  Briefly.md
+posts/You Weren_t Meant to Have a Boss.md
